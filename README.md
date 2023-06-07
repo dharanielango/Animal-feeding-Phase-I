@@ -83,8 +83,8 @@ public class MoveForward : MonoBehaviour
 }
 ```
 ## Output:
-![o](1.png)
-![o](2.png)
+![o](11.png)
+![o](22.png)
 
 ## Result:
 Animal feeding game-Phase-1 using unity is developed successfully.
